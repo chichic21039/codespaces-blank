@@ -1,0 +1,3 @@
+DevPerMonth=2200
+MarketingPerMonth=500
+RunningPerMonth=1500
